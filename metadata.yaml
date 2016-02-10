@@ -1,0 +1,31 @@
+_repo: The-Flying-Spy_46567
+contributor:
+  contributor:
+    agent_name: Guglielmotti, Emilio
+    gutenberg_agent_id: '43853'
+    url: http://www.gutenberg.org/2009/agents/43853
+  translator:
+    agent_name: Sermolino, Maria
+    gutenberg_agent_id: '43854'
+    url: http://www.gutenberg.org/2009/agents/43854
+covers:
+- cover_type: archival
+  image_path: 46567/46567-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Carlo, Camillo de
+    gutenberg_agent_id: '43852'
+    url: http://www.gutenberg.org/2009/agents/43852
+description: ''
+gutenberg_issued: '2014-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46567'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The Flying Spy
+url: http://www.gutenberg.org/ebooks/46567

@@ -1,4 +1,5 @@
 _repo: The-Flying-Spy_46567
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Guglielmotti, Emilio
@@ -10,15 +11,15 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/43854
 covers:
 - cover_type: archival
-  image_path: 46567/46567-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46567-h/images/cover.jpg
 creator:
   author:
     agent_name: Carlo, Camillo de
     gutenberg_agent_id: '43852'
     url: http://www.gutenberg.org/2009/agents/43852
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46567#The-Flying-Spy
 gutenberg_issued: '2014-08-12'
 gutenberg_type: Text
 identifiers:
